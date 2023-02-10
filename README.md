@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Cody
 <!--
 **co-decode/co-decode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![image](https://user-images.githubusercontent.com/103092293/218010016-8491fe9a-e49a-4aaf-8335-bbb92a3587ae.png)
