@@ -1,10 +1,7 @@
 I'm Cody.
 
-open-source enthusiast.
+Open-source enthusiast.
 
-c enjoyer.
-
-javascript's pretty cool too.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=co-decode&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
